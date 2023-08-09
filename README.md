@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on geting through college.
+- 🔭 I’m currently working on getting through college.
 - 🌱 I’m currently learning computer science with an AI specialization. 
 - 👯 I’m looking to collaborate on nothing yet. 
 - 🤔 I’m looking for help with learning computer science, and getting better at coding. 
